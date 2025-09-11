@@ -2,7 +2,7 @@
 
 Descripción
 
-Este proyecto tiene como objetivo practicar SQL (PostgreSQL) y Power BI aplicados a un dataset real de pedidos en un restaurante.
+Este proyecto tiene como objetivo practicar SQL (PostgreSQL) y Power BI aplicados a un dataset de pedidos en un restaurante.
 
 Se realizó un proceso de carga, exploración, estandarizacion de datos y análisis de datos para responder preguntas de negocio y visualizar insights clave en Power BI.
 
