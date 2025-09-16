@@ -16,8 +16,6 @@ Se realizó un proceso de carga, exploración, estandarizacion de datos y análi
 
 carga_datos.sql → Script de creación de tablas y carga de los CSV en PostgreSQL.
 
-carga_datos.md → Documentación del proceso de carga y resolución de errores (NULL, formatos de fecha, etc.).
-
 README.md → Este archivo con la documentación del proyecto.
 
                     <<--🔍 Análisis Realizado-->>
@@ -84,13 +82,11 @@ Se creó un dashboard interactivo con:
 
 📈 Ventas por categoría y producto.
 
-🕒 Evolución de pedidos en el tiempo.
-
 🛒 Productos más vendidos.
 
 💸 Análisis de pedidos de mayor gasto.
 
-🚀 Tecnologías Usadas
+---> Tecnologías Usadas <---
 
 SQL (PostgreSQL) → Limpieza y análisis de datos.
 
