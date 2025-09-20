@@ -19,47 +19,47 @@ carga_datos.sql → Script de creación de tablas y carga de los CSV en PostgreS
 README.md → Este archivo con la documentación del proyecto.
 
                     <<--🔍 Análisis Realizado-->>
--->> Archivo 01: menu_items
+Archivo 01: menu_items
 
-Observar la tabla menu_items.
+1.- Observar la tabla menu_items.
 
-Contar número total de ítems en el menú.
+2.- Contar número total de ítems en el menú.
 
-Identificar elementos más costosos y menos costosos.
+3.- Identificar elementos más costosos y menos costosos.
 
-Calcular cuántos platos italianos hay.
+4.- Calcular cuántos platos italianos hay.
 
-Identificar los platos italianos más baratos y más caros.
+5.- Identificar los platos italianos más baratos y más caros.
 
-Contar platos por categoría.
+6.- Contar platos por categoría.
 
-Calcular precio promedio por categoría.
+7.- Calcular precio promedio por categoría.
 
--->> Archivo 02: detalles_orden
+Archivo 02: detalles_orden
 
-Visualizar la tabla detalles_orden.
+Visualizar la tabla detalles_orden
+1.- Identificar el rango de fechas en los pedidos.
 
-Identificar el rango de fechas en los pedidos.
+2.- Calcular cuántos pedidos se realizaron en ese rango.
 
-Calcular cuántos pedidos se realizaron en ese rango.
+3.- Contar cuántos artículos se ordenaron en total.
 
-Contar cuántos artículos se ordenaron en total.
+4.- Identificar pedidos con mayor cantidad de artículos.
 
-Identificar pedidos con mayor cantidad de artículos.
+5.- Determinar cuántos pedidos tuvieron más de 12 artículos.
 
-Determinar cuántos pedidos tuvieron más de 12 artículos.
 
--->> Archivo 03: analisis de comportamiento
+ Archivo 03: analisis de comportamiento
 
-Combinar menu_items y detalles_orden.
+1.- Combinar menu_items y detalles_orden.
 
-Identificar productos más y menos pedidos (y sus categorías).
+2.- Identificar productos más y menos pedidos (y sus categorías).
 
-Top 5 pedidos con mayor gasto total.
+3.- Top 5 pedidos con mayor gasto total.
 
-Detalle del pedido de mayor gasto (order_id = 440).
+4.- Detalle del pedido de mayor gasto (order_id = 440).
 
-Análisis de los 5 pedidos de mayor gasto para entender patrones de consumo.
+5.- Análisis de los 5 pedidos de mayor gasto para entender patrones de consumo.
 
                       <<--🛠️ Proceso de Carga y Limpieza-->>
 Creación de base de datos
