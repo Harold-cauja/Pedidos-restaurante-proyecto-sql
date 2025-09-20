@@ -61,20 +61,6 @@ Visualizar la tabla detalles_orden
 
 5.- Análisis de los 5 pedidos de mayor gasto para entender patrones de consumo.
 
-                      <<--🛠️ Proceso de Carga y Limpieza-->>
-Creación de base de datos
-
-CREATE DATABASE restaurante_db; \c restaurante_db
-
-Creación de tablas (menu_items, detalles_orden).
-
-Carga de CSVs con \copy.
-
-Se manejaron valores NULL en item_id.
-
-Se ajustó el formato de fechas (mm/dd/yy → yyyy-mm-dd).
-
-Se cambio el nombre de las columnas con ALTER TABLE mi_tabla RENAME COLUMN columna to nuevo_nombre
 
 📊 Visualización en Power BI
 
@@ -86,7 +72,8 @@ Se creó un dashboard interactivo con:
 
 💸 Análisis de pedidos de mayor gasto.
 
----> Tecnologías Usadas <---
+
+Tecnologías Usadas <---
 
 SQL (PostgreSQL) → Limpieza y análisis de datos.
 
